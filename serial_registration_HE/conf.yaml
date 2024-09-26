@@ -1,0 +1,7 @@
+Path: test_Nadav_sections.csv
+Downscale: 5
+Output_folder: /lustre/scratch127/cellgen/cellgeni/tickets/tic-3366/codes/out_csv_mode
+Sample_name: test_img
+Background_Intensity: 220
+Regularization: False
+Regularization_strength: 0
