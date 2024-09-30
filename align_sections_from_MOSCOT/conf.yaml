@@ -1,0 +1,5 @@
+path_adata: /path/to/MOSCOT_output.h5ad
+downscale: 2
+out_file_path: /path/to/out/stakced/image.tif
+final_image_size: 30000
+path_table_img_paths: table/with/paths.csv
