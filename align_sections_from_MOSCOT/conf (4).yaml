@@ -1,0 +1,5 @@
+path_adata: /lustre/scratch126/cellgen/team283/yd2/whole_embryo/05092024_transformation_matrix/removed_sections_nocord_alpha_03.h5ad
+downscale: 2
+out_file_path: /lustre/scratch127/cellgen/cellgeni/tickets/tic-3337/aligned_downsampled_2.tif
+final_image_size: 30000
+path_table_img_paths: /lustre/scratch127/cellgen/cellgeni/tickets/tic-3337/visium_img_paths_CS17.csv
