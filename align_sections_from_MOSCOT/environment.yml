@@ -1,4 +1,4 @@
-name: visium_segmentation
+name: MOSCOT_registration
 channels:
   - defaults
 dependencies:
